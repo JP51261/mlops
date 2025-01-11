@@ -1,2 +1,1 @@
-# mlops
-Azure MLOPS
+# testing_dev_mlops
